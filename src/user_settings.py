@@ -8,13 +8,10 @@ SOURCE_URLS = [
     "https://t.me/s/prrofile_purple",
     "https://t.me/s/DirectVPN",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
     "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
-    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin",
-    "https://raw.githubusercontent.com/Freedom-Guard-Builder/FL/refs/heads/main/config/Fast.txt",
-    "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
-    "https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/purkow.txt",
+    "https://gist.github.com/v2xro/1dcbd0a91c1928baf131966e5e5b3b7d.txt",
+    "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link.txt",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
