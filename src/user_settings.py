@@ -3,17 +3,29 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://t.me/s/v2rayfree",
-    "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/prrofile_purple",
-    "https://t.me/s/DirectVPN",
+    "https://t.me/s/ar14n24b",
+     "https://t.me/s/SOSkeyNET",
+     "https://t.me/s/marambashi",
+     "https://t.me/s/hamedvpns",
+     "https://t.me/s/meliproxyy",
+     "https://t.me/s/v2ray_tz",
+     "https://t.me/s/capoit",
+     "https://t.me/s/free_netc",
+     "https://t.me/s/pewezavpn",
+     "https://t.me/s/configraygan",
+     "https://t.me/s/NetAccount",
+     "https://t.me/s/IraneAzad_Net"
+   # "https://t.me/s/v2rayfree",
+   # "https://t.me/s/PrivateVPNs",
+ #   "https://t.me/s/prrofile_purple",
+#    "https://t.me/s/DirectVPN",
     "https://t.me/s/confegraigan",
     "https://t.me/s/irannet10/681",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
-    "https://gist.github.com/v2xro/1dcbd0a91c1928baf131966e5e5b3b7d.txt",
-    "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link.txt",
+#    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
+#    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
+#    "https://gist.github.com/v2xro/1dcbd0a91c1928baf131966e5e5b3b7d.txt",
+ #   "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link.txt",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
