@@ -22,6 +22,7 @@ SOURCE_URLS = [
     "https://t.me/s/confegraigan",
     "https://t.me/s/irannet10/681",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin",
 #    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
 #    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
 #    "https://gist.github.com/v2xro/1dcbd0a91c1928baf131966e5e5b3b7d.txt",
