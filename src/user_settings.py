@@ -7,6 +7,8 @@ SOURCE_URLS = [
     "https://t.me/s/PrivateVPNs",
     "https://t.me/s/prrofile_purple",
     "https://t.me/s/DirectVPN",
+    "https://t.me/s/irannet10/681",
+    "https://t.me/s/confegraigan",
     "https://raw.githubusercontent.com/seyeddex/sub/refs/heads/main/vpn.txt",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
