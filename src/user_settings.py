@@ -15,10 +15,10 @@ SOURCE_URLS = [
      "https://t.me/s/configraygan",
      "https://t.me/s/NetAccount",
      "https://t.me/s/IraneAzad_Net"
-   # "https://t.me/s/v2rayfree",
-   # "https://t.me/s/PrivateVPNs",
- #   "https://t.me/s/prrofile_purple",
-#    "https://t.me/s/DirectVPN",
+    "https://t.me/s/v2rayfree",
+    "https://t.me/s/PrivateVPNs",
+    "https://t.me/s/prrofile_purple",
+    "https://t.me/s/DirectVPN",
     "https://t.me/s/confegraigan",
     "https://t.me/s/irannet10/681",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
@@ -44,7 +44,7 @@ ENABLED_PROTOCOLS = {
     "hysteria2://": True,
     "vless://": True,
     "vmess://": True,
-    "ss://": True,
+    "ss://": False,
     "trojan://": True,
     "tuic://": False,
 }
