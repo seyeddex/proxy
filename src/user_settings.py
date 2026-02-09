@@ -3,6 +3,9 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
+     "https://t.me/s/PrivateVPNs",
+     "https://t.me/s/capoit",
+     "https://t.me/s/tikvpnir",
      "https://t.me/s/NetAccount",
      "https://t.me/s/wiki_tajrobe",
      "https://t.me/s/persianvpnhub",
