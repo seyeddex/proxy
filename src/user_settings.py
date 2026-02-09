@@ -4,7 +4,6 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
      "https://t.me/s/NetAccount",
-     "https://t.me/s/tikvpnir",
      "https://t.me/s/wiki_tajrobe",
      "https://t.me/s/persianvpnhub",
      "https://t.me/s/marambashi",
@@ -13,11 +12,9 @@ SOURCE_URLS = [
      "https://t.me/s/marambashi",
      "https://t.me/s/hamedvpns",
      "https://t.me/s/meliproxyy",
-     "https://t.me/s/capoit",
      "https://t.me/s/configraygan",
      "https://t.me/s/NetAccount",
      "https://t.me/s/IraneAzad_Net"
-    "https://t.me/s/PrivateVPNs",
     "https://t.me/s/prrofile_purple",
     "https://t.me/s/DirectVPN",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
@@ -43,7 +40,7 @@ ENABLED_PROTOCOLS = {
     "hysteria2://": True,
     "vless://": True,
     "vmess://": True,
-    "ss://": False,
+    "ss://": True,
     "trojan://": True,
     "tuic://": False,
 }
