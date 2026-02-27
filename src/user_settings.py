@@ -3,7 +3,9 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
+     "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt",
      "https://t.me/s/PrivateVPNs",
+     "https://t.me/s/v2rayfree",
     # "https://t.me/s/capoit",
    #  "https://t.me/s/tikvpnir",
      "https://t.me/s/NetAccount",
@@ -16,7 +18,7 @@ SOURCE_URLS = [
    #  "https://t.me/s/hamedvpns",
      "https://t.me/s/meliproxyy",
      "https://t.me/s/configraygan",
-     "https://t.me/s/NetAccount",
+    # "https://t.me/s/NetAccount",
      "https://t.me/s/IraneAzad_Net"
   #  "https://t.me/s/prrofile_purple",
     "https://t.me/s/DirectVPN",
