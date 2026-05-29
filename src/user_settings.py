@@ -5,7 +5,7 @@
 SOURCE_URLS = [
      "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt",
      "https://t.me/s/PrivateVPNs",
-     "https://t.me/s/v2rayfree",
+   #  "https://t.me/s/v2rayfree",
     # "https://t.me/s/capoit",
    #  "https://t.me/s/tikvpnir",
      "https://t.me/s/NetAccount",
@@ -17,13 +17,17 @@ SOURCE_URLS = [
      "https://t.me/s/marambashi",
    #  "https://t.me/s/hamedvpns",
      "https://t.me/s/meliproxyy",
-     "https://t.me/s/configraygan",
+   #  "https://t.me/s/configraygan",
     # "https://t.me/s/NetAccount",
      "https://t.me/s/IraneAzad_Net"
   #  "https://t.me/s/prrofile_purple",
     "https://t.me/s/DirectVPN",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin",
+    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+    "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
+    "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
+    "https://raw.githubusercontent.com/therealaleph/Iran-configs/refs/heads/main/ir_configs.txt",
 #    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
 #    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
 #    "https://gist.github.com/v2xro/1dcbd0a91c1928baf131966e5e5b3b7d.txt",
@@ -52,7 +56,7 @@ ENABLED_PROTOCOLS = {
 
 # Maximum age of configurations in days.
 # Configurations older than this will be considered invalid.
-MAX_CONFIG_AGE_DAYS = 1
+MAX_CONFIG_AGE_DAYS = 3
 
 # --- Sing-box Config Tester Settings ---
 
